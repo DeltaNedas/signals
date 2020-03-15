@@ -1,0 +1,8 @@
+{
+	"name": "signals",
+	"displayName": "[#67a5fb]Signals[]",
+	"author": "DeltaNedas",
+	"description": "Adds the power-like [#67a5fb]Signal[] system.",
+	"version": "1.0.0",
+	"minGameVersion": "104"
+}
